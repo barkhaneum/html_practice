@@ -1,0 +1,24 @@
+#first{
+    border: 1px solid red;
+    /* position: absolute; */
+    left : 10px;
+    top : 10px;
+}
+
+#second{
+    border: 1px solid blue;
+    /* position: relative;  */
+    top : 0px;
+    left: 100px;
+    
+}
+
+
+plate apple{
+    font-size: 100px;
+}
+
+
+/* #third{
+    border: 2px solid green;
+} */
